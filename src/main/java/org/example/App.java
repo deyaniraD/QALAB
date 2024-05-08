@@ -10,51 +10,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        /*int lista[] = {6, 9, -8, 23, 3, 100, 3};
-
-        int nNum1 = lista[0];
-        int nNum2 = lista[0];
-        for (int i = 0; i < lista.length; i++) {
-            if (lista[i] < nNum1) {
-                nNum1 = lista[i];
-            }
-            if (lista[i] > nNum2) {
-                nNum2 = lista[i];
-            }
-        }
-        System.out.println( "nNum1: " + nNum1 + ", nNum2: " + nNum2);
-*/
-        //////////////
-
-        /*int listasNotas[] = {12, 10, 10, 9};
-
-        double promedio = 0;
-
-        for (int i = 0; i < listasNotas.length; i++) {
-            promedio = promedio + listasNotas[i];
-        }
-        promedio = promedio/ listasNotas.length;
-        System.out.println(promedio);*/
-
-        ////////////
-
-        /*int num[] = {10, 2, 1, 30};
-        int i;
-        int temp;
-
-        for (int j = 0; j < num.length - 1; j++) {
-            for (i = 0; i < num.length - 1; i++) {
-                if (num[i] < num[i +1]) {
-                    temp = num[i];
-                    num[i] = num[i + 1];
-                    num[i + 1] = temp;
-                }
-            }
-
-        }
-        System.out.println(num[0] + " & " + num[num.length - 1]);*/
-/////////
-
         int numero;
         int clave;
         int dni;
